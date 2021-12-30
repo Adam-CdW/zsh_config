@@ -17,9 +17,9 @@
 ### Aliases
 ```
     export EDITOR='subl -w'
-    alias nhosts='subl /etc/hosts'
-    alias nssh='subl ~/.ssh/'
-    alias nzsh='subl ~/.zshrc'
+    alias ehosts='subl /etc/hosts'
+    alias essh='subl ~/.ssh/'
+    alias ezsh='subl ~/.zshrc'
     alias sites='cd ~/sites'
     alias gst='git status'
     alias dc='docker-compose'
